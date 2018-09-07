@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BanayatRyanLab1</string>
+    <string name="Text1">Title</string>
+    <string name="Text2">Location: </string>
+    <string name="Text3">Distance from UST: </string>
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
 </resources>
